@@ -11,4 +11,4 @@ function multiply(a, b) {
 function divide(a, b) {
   return a / b;
 };
-//console.log(divide(5, 10));
+console.log(divide(5, 10));
